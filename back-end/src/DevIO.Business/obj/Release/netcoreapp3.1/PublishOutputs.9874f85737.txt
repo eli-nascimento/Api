@@ -1,0 +1,4 @@
+C:\Users\elijn\Documents\Aulas\Developer\Angular Avançado\back-end\dist\DevIO.Business.dll
+C:\Users\elijn\Documents\Aulas\Developer\Angular Avançado\back-end\dist\DevIO.Business.deps.json
+C:\Users\elijn\Documents\Aulas\Developer\Angular Avançado\back-end\dist\DevIO.Business.pdb
+C:\Users\elijn\Documents\Aulas\Developer\Angular Avançado\back-end\dist\FluentValidation.dll
